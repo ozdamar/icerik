@@ -7,18 +7,19 @@
 
 [MELBOURNE](https://digitwin.com.au)
 
+[ZURICH](https://web.stzh.ch/appl/3d/zuerichvirtuell/)
+
 ------
 
 [Mobility Lab Helsinki](https://mobilitylab.hel.fi/digital-twin/)
 
-[ZURICH](https://web.stzh.ch/appl/3d/zuerichvirtuell/)
 
+[Minneapolis Açık Veri](https://opendata.minneapolismn.gov)
 
-
-[Minneapolis Açıl Veri](https://opendata.minneapolismn.gov)
+------
 
 [Sağlıkta Dijital İkiz:](https://q.bio )
 
-
+------
 
 [Video-Predictive Digital Twins](https://www.youtube.com/watch?v=ZuSx0pYAZ_I)
