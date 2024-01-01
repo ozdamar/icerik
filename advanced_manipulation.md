@@ -91,3 +91,5 @@
   Obtains reduced representation in volume but produces the same or similar analytical results
 ## Data discretization
   Part of data reduction but with particular importance, especially for numerical data
+
+## ...
